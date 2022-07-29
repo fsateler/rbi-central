@@ -12,13 +12,7 @@
       "action_dispatch/testing/integration"
     ]
   },
-  "actionview": {
-    "requires": [
-      "action_view"
-    ]
-  },
-  "active_flag": {
-  },
+  "active_flag": [],
   "activerecord": {
     "requires": [
       "active_record"

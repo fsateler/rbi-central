@@ -118,3 +118,6 @@ class String
   sig { returns(String) }
   def yellow; end
 end
+
+class Integer; end
+class NotFound; end
